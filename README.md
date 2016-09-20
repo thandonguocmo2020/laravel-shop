@@ -6,9 +6,9 @@ LARAVEL SHOP (Laravel 5.1 Package)
 [![Latest Unstable Version](https://poser.pugx.org/amsgames/laravel-shop/v/unstable)](https://packagist.org/packages/amsgames/laravel-shop)
 [![License](https://poser.pugx.org/amsgames/laravel-shop/license)](https://packagist.org/packages/amsgames/laravel-shop)
 
-Laravel Shop is flexible way to add shop functionality to **Laravel 5.1**. Aimed to be the e-commerce solution for artisans.
+Laravel Shop là cách linh hoạt để thêm chức năng cửa hàng để ** Laravel 5.1 **. Nhằm mục đích là giải pháp thương mại điện tử cho các nghệ nhân artisan.
 
-Laravel shop adds shopping cart, orders and payments to your new or existing project; letting you transform any model into a shoppable item.
+Laravel shop gồm shopping cart, orders and payments cho các dự án mới của bạn hoặc các dự án hiện tại cho phép bạn chuyển đổi bất kỳ mô hình thành 1 shop mua sắm 
 
 **Supports**
 
@@ -16,11 +16,11 @@ Laravel shop adds shopping cart, orders and payments to your new or existing pro
 
 ## Contents
 
-- [Scope](#scope)
-- [Installation](#installation)
-- [Configuration](#configuration)
-    - [Database Setup](#database-setup)
-    - [Models Setup](#models)
+- [Phạm vi](#scope)
+- [Cài đặt](#installation)
+- [Cấu hình](#configuration)
+    - [Cài đặt cơ sở dữ liệu](#database-setup)
+    - [Models mô hình cài đặt](#models)
         - [Item](#item)
         - [Cart](#cart)
         - [Order](#order)
@@ -31,7 +31,7 @@ Laravel shop adds shopping cart, orders and payments to your new or existing pro
     - [Payment Gateways](#payment-gateways)
         - [PayPal](#paypal)
         - [Omnipay](#omnipay)
-- [Usage](#usage)
+- [Sử dụng](#usage)
     - [Shop](#shop)
         - [Purchase Flow](#purchase-flow)
         - [Payment Gateway](#payment-gateway)
@@ -55,8 +55,8 @@ Laravel shop adds shopping cart, orders and payments to your new or existing pro
   - [Transaction](#transaction-1)
   - [Callbacks](#callbacks)
   - [Exceptions](#exception)
-- [License](#license)
-- [Additional Information](#additional-information)
+- [giấy phép](#license)
+- [thông tin thêm](#additional-information)
 - [Change Log](#change-log)
 
 ## Scope
